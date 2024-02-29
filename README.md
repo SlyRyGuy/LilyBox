@@ -17,3 +17,4 @@ I have been using the controller since first designing it a few months before po
 
 For use on a lazercutter, simply download all the dxf files placed in the main repo and run them through whatever lazer cutter you have. All dimensions are already set, so just make sure they scale properly in your lazer cutting software of choice. 
 
+![lilybox](https://github.com/SlyRyGuy/LilyBox/assets/68090014/a8e23935-aea5-4c14-adb5-f5a2a12c80c6)
