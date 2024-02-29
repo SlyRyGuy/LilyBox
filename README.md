@@ -13,3 +13,7 @@ The main panel has a shiokenstar layout, 5x 24mm holes (3x for typical direction
 As seen, the design is a little bit odd and scuffed. Thus, I named it after my SF6 Main, Lily, who is scuffed in very similar ways. 
 
 I have been using the controller since first designing it a few months before posting it, and it has worked just perfect. 
+
+
+For use on a lazercutter, simply download all the dxf files placed in the main repo and run them through whatever lazer cutter you have. All dimensions are already set, so just make sure they scale properly in your lazer cutting software of choice. 
+
